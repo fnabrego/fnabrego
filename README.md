@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Franco Nicolas Abrego</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-- 👯 I’m looking to collaborate on [Expreso Rivadavia](https://github.com/fnabrego/grupo8-ft49-backend-pf)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/franco-nicolas-abrego/</h3>
 <p align="left">
 </p>
 
